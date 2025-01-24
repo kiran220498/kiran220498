@@ -17,7 +17,7 @@ Let me introduce myself, I’m Kiran Dalvi. On this occasion, I’d like to shar
 - SweetAlert2  
 
 **Website Link:**  
-[https://www.kd.my.id/](https://www.kd.my.id/)  
+[https://www.eki.my.id/](https://www.eki.my.id/)  
 
 We would appreciate it if you decide to use this project. Please include credit when using it. Thank you! 🙏  
 
