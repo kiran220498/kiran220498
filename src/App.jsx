@@ -9,6 +9,7 @@ import Portofolio from "./Pages/Portofolio";
 import ContactPage from "./Pages/Contact";
 import ProjectDetails from "./components/ProjectDetail";
 import WelcomeScreen from "./Pages/WelcomeScreen";
+import Chatbot from "./components/Chatbot";
 import { AnimatePresence } from 'framer-motion';
 
 const LandingPage = ({ showWelcome, setShowWelcome }) => {
@@ -72,6 +73,7 @@ function App() {
       <Routes>
         <Route path="/" element={<LandingPage showWelcome={showWelcome} setShowWelcome={setShowWelcome} />} />
         <Route path="/project/:id" element={<ProjectPageLayout />} />
+        <Route path="/chatbot" element={<Chatbot />} />
       </Routes>
     </BrowserRouter>
   );
